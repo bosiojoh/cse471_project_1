@@ -7,7 +7,7 @@
 ## Components and SCORE Details
 
 #### Wavetable synthesis instrument
-Createed a wavetable synthesis instrument that uses samples of different bass sound. This component supports ADSR envelope generation and pitch. For ADSR envelope generation, the attack, decay, and release are specified on a note while the sustain period is determined by the time between the decay and release periods. The short demonstration audio can be found at [`cse471_project_1\wavetablebass_test.wav`](https://github.com/bosiojoh/cse471_project_1/blob/8f94e48c57270ebf692036d00779090efbda09bf/wavetablebass_test.wav) and the SCORE file for this audio can be found at [`cse471_project_1\wavetablebass_test.score`](https://github.com/bosiojoh/cse471_project_1/blob/8f94e48c57270ebf692036d00779090efbda09bf/wavetablebass_test.score)
+Createed a wavetable synthesis instrument that uses samples of different bass sounds. This component supports ADSR envelope generation and pitch. For ADSR envelope generation, the attack, decay, and release are specified on a note while the sustain period is determined by the time between the decay and release periods. The short demonstration audio can be found at [`cse471_project_1\wavetablebass_test.wav`](https://github.com/bosiojoh/cse471_project_1/blob/8f94e48c57270ebf692036d00779090efbda09bf/wavetablebass_test.wav) and the SCORE file for this audio can be found at [`cse471_project_1\wavetablebass_test.score`](https://github.com/bosiojoh/cse471_project_1/blob/8f94e48c57270ebf692036d00779090efbda09bf/wavetablebass_test.score)
 
 ##### SCORE Format
 Example:
@@ -27,7 +27,7 @@ Example:
 `atack`- Length in seconds of the attack period for envelope generation
 `decay`- Length in seconds of the decay period for envelope generation
 `release`- Length in seconds of the release period for envelope generation
-`rate`- used to change the pitch of a note. Specify the rate at which a note should be played. Ex: `2.0` would double the rate.
+`rate`- used to change the pitch of a note. Specify the rate at which a note should be played. Ex: `2.0` would double the rate and double the pitch.
 
 #### Noise Gate Effect
 Create a noise gate effect that blocks signals that register below a specified threshold. This threshold can be set on the effect in the SCORE file. The short demonstration audio can be found at [`cse471_project_1\noisegate_test.wav`](https://github.com/bosiojoh/cse471_project_1/blob/2eb2dd1d817f90bcf34074c8690c7e7e1e5930e6/noisegate_test.wav) and the SCORE file for this audio can be found at [`cse471_project_1\noisegate_test.score`](https://github.com/bosiojoh/cse471_project_1/blob/2eb2dd1d817f90bcf34074c8690c7e7e1e5930e6/noisegate_test.score)
