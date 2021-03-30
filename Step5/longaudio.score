@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="60" beatspermeasure="4">
+	<instrument instrument="WaveBass">
+		<note measure="1" beat="1" duration="0.2" sample="2.0" attack="0.03" release="0.08" decay="0.03" rate="1.5" />
+		<note measure="1" beat="2" duration="0.2" sample="2.0" attack="0.03" release="0.08" decay="0.03" rate="1.5" />
+		<note measure="1" beat="3" duration="0.2" sample="2.0" attack="0.03" release="0.08" decay="0.03" rate="1.5"/>
+		<note measure="1" beat="4" duration="0.2" sample="2.0" attack="0.03" release="0.08" decay="0.03" rate="1.5"/>
+		
+		<note measure="2" beat="1" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="3.0" />
+		<note measure="2" beat="2" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="2" beat="3" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="2" beat="4" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		
+		<note measure="3" beat="1" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="3" beat="2" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="3" beat="3" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="3" beat="4" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		
+		<note measure="4" beat="1" duration="0.5" sample="5.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="4" beat="2" duration="0.5" sample="5.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="4" beat="3" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="4" beat="4" duration="0.5" sample="5.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		
+		<note measure="5" beat="1" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="5" beat="2" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="5" beat="3" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="5" beat="4" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="4.0"/>
+		
+		<note measure="6" beat="1" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="4.0"/>
+		<note measure="6" beat="2" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="6" beat="3" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="6" beat="4" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		
+		<note measure="7" beat="1" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="7" beat="2" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="7" beat="3" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="7" beat="4" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" rate="4.0"/>
+		
+		<note measure="8" beat="1" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" rate="4.0"/>
+		<note measure="8" beat="2" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="8" beat="3" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="8" beat="4" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" />
+		
+		<note measure="9" beat="1" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="9" beat="2" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="9" beat="3" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="9" beat="4" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		
+		<!-- <note measure="9" beat="1" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="9" beat="2" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="9" beat="3" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="9" beat="4" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" /> -->
+		
+		<note measure="10" beat="1" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="10" beat="2" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="10" beat="3" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="3.0"/>
+		<note measure="10" beat="4" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		
+		<note measure="11" beat="1" duration="0.5" sample="5.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="11" beat="2" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="11" beat="3" duration="0.5" sample="4.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		<note measure="11" beat="4" duration="0.5" sample="5.0" attack="0.04" release="0.03" decay="0.06" rate="2.0"/>
+		
+		<note measure="12" beat="1" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="12" beat="2" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="12" beat="3" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="12" beat="4" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		
+		<note measure="13" beat="1" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="13" beat="2" duration="0.2" sample="1.0" attack="0.04" release="0.03" decay="0.06"/>
+		<note measure="13" beat="3" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="13" beat="4" duration="0.2" sample="1.0" attack="0.04" release="0.03" decay="0.06"/>
+		
+		<note measure="14" beat="1" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06" />
+		<note measure="14" beat="2" duration="0.2" sample="2.0" attack="0.03" release="0.05" decay="0.06"/>
+		<note measure="14" beat="3" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06" />
+		<note measure="14" beat="4" duration="0.2" sample="2.0" attack="0.03" release="0.05" decay="0.06"/>
+		
+		<note measure="15" beat="1" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="15" beat="2" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="15" beat="3" duration="0.5" sample="3.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="15" beat="4" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		
+		<note measure="16" beat="1" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		<note measure="16" beat="2" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="0.75"/>
+		<note measure="16" beat="3" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="0.50"/>
+		<note measure="16" beat="4" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="0.25"/>
+		
+		<note measure="17" beat="1" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="0.25"/>
+		<note measure="17" beat="2" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="0.50"/>
+		<note measure="17" beat="3" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" rate="0.75"/>
+		<note measure="17" beat="4" duration="0.5" sample="1.0" attack="0.04" release="0.03" decay="0.06" />
+		
+		
+		
+	</instrument>
+	<instrument instrument="NoiseGate">
+		<note measure="12" threshold="0.20" />
+		<note measure="14" threshold="0.25" />
+	</instrument>
+	
+</score>

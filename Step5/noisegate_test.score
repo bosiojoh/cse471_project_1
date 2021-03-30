@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="60" beatspermeasure="4">
+	<instrument instrument="WaveBass">
+		<note measure="1" beat="1" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06" />
+		<note measure="1" beat="2" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06"/>
+		<note measure="1" beat="3" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06" />
+		<note measure="1" beat="4" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06"/>
+		
+		<note measure="2" beat="1" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06" />
+		<note measure="2" beat="2" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06"/>
+		<note measure="2" beat="3" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06" />
+		<note measure="2" beat="4" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06"/>
+		
+		<note measure="3" beat="1" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06" />
+		<note measure="3" beat="2" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06"/>
+		<note measure="3" beat="3" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06" />
+		<note measure="3" beat="4" duration="0.4" sample="2.0" attack="0.03" release="0.05" decay="0.06"/>
+		
+		
+	</instrument>
+	<instrument instrument="NoiseGate">
+		<note measure="2" threshold="0.25" />
+		<note measure="3" threshold="0.80" />
+
+	</instrument>
+</score>
